@@ -1,0 +1,9 @@
+Go es una opción de idioma cada vez más popular para crear aplicaciones web debido a la flexibilidad y el rendimiento integrados en el paquete de biblioteca estándar 'net/http' que viene con el lenguaje. 
+El paquete 'net/http' proporciona muchas primitivas útiles y potentes, como su implementación de servidor web, tipos y métodos de solicitud y respuesta, enrutador de ubicación de recursos uniforme, así 
+como una interfaz de controlador limpia y declaración de tipo de función.
+
+Si bien el stdlib de Go es lo suficientemente capaz como para crear un microservicio listo para la producción, un proyecto puede requerir una funcionalidad que no está disponible en el stdlib. Varios 
+marcos amplían la funcionalidad de Go, uno de los cuales es el Echo. Echo es un marco de aplicación web Go de código abierto, extensible y centrado en el rendimiento. Es un marco web minimalista que 
+se encuentra entre stdlib + router y un marco web de pila completa. Viene con middleware extensible, manejo central de errores HTTP y representación de plantillas para cualquier motor de plantillas.
+
+https://medium.com/cuddle-ai/building-microservice-using-golang-echo-framework-ff10ba06d508#:~:text=Echo%20is%20a%20performance%2Dfocused,rendering%20for%20any%20template%20engine.
